@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "c51895a06adb4023",
+    "type": "split",
+    "children": [
+      {
+        "id": "9447dda3bbb3c38c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f3f57ae7bc4ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Especificación de requisitos/User Personas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "User Personas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aadf572dbdb69ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a07c26330dcae710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7fd767fcb1c753b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "814927ba5ea58bb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "caa469516d8a4afd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aac3db323ca43e2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ee61d6b2b13e2ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a795ea2fd44f012a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hoja de ruta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "3684a486fde5bc08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hoja de ruta.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "f8246706b1559ac4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "082d48d31f5db000",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "4cc74e47449c589e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hoja de ruta.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "84f3f57ae7bc4ece",
+  "lastOpenFiles": [
+    "Especificación de requisitos/Requisitos no funcionales.md",
+    "Especificación de requisitos/User Personas.md",
+    "Pantallas/Añadir Pieza.md",
+    "Pantallas/Configuración.md",
+    "Pantallas/Estadísticas.md",
+    "Pantallas/Inicio.md",
+    "Pantallas/Lista Gastos.md",
+    "Pantallas/Lista Piezas.md",
+    "Estilo.md",
+    "Maison Eclectik.md",
+    "Especificación de requisitos/Requisitos funcionales.md",
+    "Especificación de requisitos/Entidades de negocio.md",
+    "Especificación de requisitos/Pantallas.md",
+    "Pantallas",
+    "Especificación de requisitos/Casos de uso.md",
+    "Hoja de ruta.md",
+    "Especificación de requisitos",
+    "Bienvenido.md"
+  ]
+}

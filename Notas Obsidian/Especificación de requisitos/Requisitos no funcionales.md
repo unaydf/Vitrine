@@ -1,0 +1,17 @@
+- Aplicación móvil
+- Android (minimun SDK y versión de la API por decidir)
+- Kotlin
+- No se debe conectar a nada externo
+	- No BBDD externa
+	- No servidor externo
+	- No llamadas a APIs externas
+- No deben de haber costes monetarios de uso/mantenimiento
+	- No pago de dmominio
+	- No pago de servidores
+	- No pago de APis
+	- No pago de almacenamiento externo
+- Copias de seguridad periódicas en un servicio externo (única excepción a los reqisitos anteriores)
+	- Se almacenan en algún servicio gratuito en la nube (tipo Google Drive o similares) **(A decidir donde)**
+	- Cada semana se crea y almacena una copia
+- Capacidad de recibir una copia de seguridad y almacenar los datos que esta contenga (para más adelante)
+- No hay cuentas de usuario (decisión a revisar: en un principio al no haber almacenamiento en la nube y ser todo lo más local posible no se han considerado necesarias. Los datos viven todos en la BBDD y el archivo de exportación y cualquiera con ese archivo puede continuar desde ahí)
